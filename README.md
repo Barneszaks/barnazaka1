@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barnazaka1
+- 👋 Hi, I’m @Barnabas Zakariya
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JQuery
 - 💞️ I’m looking to collaborate on different Project regarding web development 
